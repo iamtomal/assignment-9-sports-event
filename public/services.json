@@ -1,0 +1,70 @@
+[
+      {
+        "id": 1,
+        "name": "Soccer Tournament",
+        "image": "https://i.ibb.co/BnmMbsm/Youth-soccer-tournament-DIGC-2019.jpg",
+        "price": 45.00,
+        "short_description": "Join our thrilling soccer tournament!",
+        "long_description": "Experience the excitement of competitive soccer in our annual tournament. Teams of all ages and skill levels are welcome.",
+        "location": "City Stadium, Springfield",
+        "contact_number": "+1234567890",
+        "email": "soccer@example.com"
+      },
+      {
+        "id": 2,
+        "name": "Swimming Championship",
+        "image": "https://i.ibb.co/0FJSNbB/alice-tai-national-paraswimming-championships.jpg",
+        "price": 25.00,
+        "short_description": "Dive into the pool at our swimming championship",
+        "long_description": "Compete against swimmers from across the region in various swimming events. It's a great opportunity to showcase your aquatic skills.",
+        "location": "Aquatic Center, Lakeside Park",
+        "contact_number": "+9876543210",
+        "email": "swimming@example.com"
+      },
+      {
+        "id": 3,
+        "name": "Basketball Showcase",
+        "image": "https://i.ibb.co/x8nkLRN/usa-today-17890369-0.jpg",
+        "price": 30.00,
+        "short_description": "Show off your basketball skills in our showcase",
+        "long_description": "Calling all basketball enthusiasts! Participate in our showcase event and demonstrate your basketball prowess. Open to all ages.",
+        "location": "Community Gym, Oakville",
+        "contact_number": "+4445556666",
+        "email": "basketball@example.com"
+      },
+      {
+        "id": 4,
+        "name": "Tennis Open Championship",
+        "image": "https://i.ibb.co/F3tWLvx/Tennis-Open-Championship.jpg",
+        "price": 35.00,
+        "short_description": "Compete in the Tennis Open Championship",
+        "long_description": "Join the Tennis Open Championship and compete against top-level players. A great opportunity to test your skills.",
+        "location": "Green Valley Tennis Club, Riverside",
+        "contact_number": "+7890123456",
+        "email": "tennis@example.com"
+      },
+      {
+        "id": 5,
+        "name": "Golf Tournament",
+        "image": "https://i.ibb.co/sK6b6PW/Golf-Tournament.png",
+        "price": 50.00,
+        "short_description": "Tee off at our annual golf tournament",
+        "long_description": "Golf enthusiasts, join us for a day of friendly competition at our annual golf tournament. Prizes and refreshments provided.",
+        "location": "Sunset Golf Course, Meadowville",
+        "contact_number": "+5678901234",
+        "email": "golf@example.com"
+      },
+      {
+        "id": 6,
+        "name": "Running Marathon",
+        "image": "https://i.ibb.co/M2bxjcy/Running-Marathon.jpg",
+        "price": 20.00,
+        "short_description": "Participate in our charity running marathon",
+        "long_description": "Run for a cause! Join our charity marathon and raise funds for a noble cause. All fitness levels are welcome.",
+        "location": "City Park, Riverside",
+        "contact_number": "+1234567890",
+        "email": "marathon@example.com"
+      }
+    ]
+  
+  
